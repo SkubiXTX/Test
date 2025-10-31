@@ -1,4 +1,4 @@
 To jest pierwsza linia
 To jest druga Linia
 
-4 Linia w nowej gałężi 
+4 Linia w nowej gałęzi 
